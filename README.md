@@ -1,3 +1,7 @@
+Preview :
+https://suraj-patgar.github.io/HTML-project1/
+
+
 # HTML 1st Project
 This is my first HTML project, created while learning web development.
 
